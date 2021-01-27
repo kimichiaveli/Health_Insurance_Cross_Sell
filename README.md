@@ -18,3 +18,17 @@ By creating Machine Learning model to predict customer's response, we could :
 2. Cut the time and cost of selling those insurance
 
 Also, by exploring our data we could gain new insight of our customer's behaviour.
+
+## EDA
+
+!(https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/heatmapcorr.png)
+!(https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/previnsured.png)
+!(https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/vehage.PNG)
+!(https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/vehcomp.PNG)
+!(https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/defmetric.PNG)
+!(https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/smotemetric.PNG)
+!(https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/classweightmetric.PNG)
+!(https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/consmote.png)
+!(https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/conclassweight.png)
+!(https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/rocaucsmote.png)
+!(https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/rocaucclassweight.png)
