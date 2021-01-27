@@ -22,23 +22,23 @@ Also, by exploring our data we could gain new insight of our customer's behaviou
 ## EDA
 
 **Here's the features correlation heatmap, notice that 'Previously_Insured' has the highest correlation on the 'Response'**<br>
-![alt text](https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/heatmapcorr.png 'Correlation Heatmap')
-**Pretty sure that only people who currently don't have vehicle insured will response positively**
-![alt text](https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/previnsured.png 'Previously_Insured countplot')
-**Here we can see how the vehicle age and damage distribution based on their response**
-![alt text](https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/vehage.PNG 'Vehicle Age based on the response')
-![alt text](https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/vehcomp.PNG 'Vehicle Composition')
-**Classification Metrics of CatBoost model (without SMOTE or class-weight)**
-![alt text](https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/defmetric.PNG)
-**Classification Metrics of CatBoost model with SMOTE (oversampling method)**
-![alt text](https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/smotemetric.PNG)
-**Classification Metrics of CatBoost model with auto-balanced class weight**
-![alt text](https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/classweightmetric.PNG)
-**Confusion Matrix of CatBoost model with SMOTE**
-![alt text](https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/consmote.png)
-**Confusion Matrix of CatBoost model with auto-balanced class weight**
-![alt text](https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/conclassweight.png)
-**ROC-AUC plot CatBoost model with SMOTE**
-![alt text](https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/rocaucsmote.png)
-**ROC-AUC plot CatBoost model with auto-balanced class weight**
+![alt text](https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/heatmapcorr.png 'Correlation Heatmap')<br>
+**Pretty sure that only people who currently don't have vehicle insured will response positively**<br>
+![alt text](https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/previnsured.png 'Previously_Insured countplot')<br>
+**Here we can see how the vehicle age and damage distribution based on their response**<br>
+![alt text](https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/vehage.PNG 'Vehicle Age based on the response')<br>
+![alt text](https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/vehcomp.PNG 'Vehicle Composition')<br>
+**Classification Metrics of CatBoost model (without SMOTE or class-weight)**<br>
+![alt text](https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/defmetric.PNG)<br>
+**Classification Metrics of CatBoost model with SMOTE (oversampling method)**<br>
+![alt text](https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/smotemetric.PNG)<br>
+**Classification Metrics of CatBoost model with auto-balanced class weight**<br>
+![alt text](https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/classweightmetric.PNG)<br>
+**Confusion Matrix of CatBoost model with SMOTE**<br>
+![alt text](https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/consmote.png)<br>
+**Confusion Matrix of CatBoost model with auto-balanced class weight**<br>
+![alt text](https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/conclassweight.png)<br>
+**ROC-AUC plot CatBoost model with SMOTE**<br>
+![alt text](https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/rocaucsmote.png)<br>
+**ROC-AUC plot CatBoost model with auto-balanced class weight**<br>
 ![alt text](https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/rocaucclassweight.png)
