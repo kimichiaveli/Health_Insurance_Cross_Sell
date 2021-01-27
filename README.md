@@ -22,7 +22,7 @@ Also, by exploring our data we could gain new insight of our customer's behaviou
 ## EDA
 
 **Here's the features correlation heatmap, notice that 'Previously_Insured' has the highest correlation on the 'Response'**<br>
-![alt text](https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/heatmapcorr.png 'Correlation Heatmap')<br>
+![alt text](https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/heatmapcorr.png 'Correlation Heatmap')<p>
 **Pretty sure that only people who currently don't have vehicle insured will response positively**<br>
 ![alt text](https://github.com/kimichiaveli/Health_Insurance_Cross_Sell/blob/main/previnsured.png 'Previously_Insured countplot')<br>
 **Here we can see how the vehicle age and damage distribution based on their response**<br>
